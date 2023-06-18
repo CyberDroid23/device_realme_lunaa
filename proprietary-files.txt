@@ -1,6 +1,18 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from Realme GT Master Edition (RMX3360_11.F.04).
 
+# Vibrator (richtap) - from Spacewar
+odm/etc/aac_richtap.config
+vendor/bin/hw/vendor.qti.hardware.vibrator.service
+vendor/etc/init/vendor.qti.hardware.vibrator.service.rc
+vendor/etc/vintf/manifest/vendor.qti.hardware.vibrator.service.xml
+vendor/lib/hw/vibrator.default.so
+vendor/lib64/hw/vibrator.default.so
+vendor/lib64/libaacvibrator.so
+vendor/lib64/libqtivibratoreffect.so
+vendor/lib64/vendor.aac.hardware.richtap.vibrator-V1-ndk_platform.so
+vendor/lib64/vendor.qti.hardware.vibrator.impl.so
+
 # ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
 odm/etc/acdbdata/General_cal.acdb
