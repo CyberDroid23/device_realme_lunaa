@@ -1,3 +1,0 @@
-# Vibrator
-vendor.aac.hardware.richtap.vibrator::IRichtapVibrator                      u:object_r:hal_vibrator_hwservice:s0
-
